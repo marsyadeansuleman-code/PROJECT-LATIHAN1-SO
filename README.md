@@ -183,6 +183,7 @@ chmod +x report.sh
 cat report.sh
 ```
 Penjelasan:
+
 -`find . -type f -name "*.txt"` → mencari file dengan pola nama tertentu.
 
 -`find . -size +1M` → mencari file berukuran lebih dari 1 MB.
