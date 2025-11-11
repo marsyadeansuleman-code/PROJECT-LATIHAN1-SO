@@ -3,11 +3,14 @@ Project Based Leaning 1
 # LANGKAH 1 BUAT STRUKTUR DIREKTORI
 # Berikut contoh membuat project_1
 Deskripsi gambar
+(https://drive.google.com/file/d/1MVXPJKMpbQW9O593lhQ5g_O1_ioE2EoU/view?usp=drivesdk)
 
 ```
 ubuntu@marsyadea : mkdir project_1
 ```
 # Berikut contoh perintah Berpindah Direktori ke Project_1 dan Membuat folder document images archives logs:
+Deskripsi gambar
+(https://drive.google.com/file/d/174EXAB5gp6M534iQk3WNLus02XC4cSO6/view?usp=drivesdk)
 ```
 cd Project_1
 ```
@@ -15,12 +18,14 @@ cd Project_1
 mkdir documents images archives logs
 ```
 # Perintah Membuat 20 file simple
-(Deskripsi gambar)
+Deskripsi gambar
+(https://drive.google.com/file/d/1ElBSKUW-tkxIyN0sz_8EpPy8nFnk68Zg/view?usp=drivesdk)
 ```
 touch file{1..10}.txt file{11..15}.jpg file{16..18}.pdf file{19..20}.log
 ```
 # Berikut contoh perintah memasukan sebuah teks ke masing masing file yang berbeda:
-(Deskripsi gambar)
+Deskripsi gambar
+(https://drive.google.com/file/d/1OZDcUTnj2-Gl9_xCLzu4Jjwjrrs5f4f4/view?usp=drivesdk)
 ```
 echo "Ini adalah dokumen contoh" > file1.txt
 ```
@@ -41,7 +46,8 @@ Penjelasan:
 nano operasi_file.sh
 ```
 # ISI SCRIPT
-(Deskripsi gambar)
+Deskripsi gambar
+(https://drive.google.com/file/d/1WNVE7yjSLjFm3vfcCp0gp3x9ZN6Z-Nvv/view?usp=drivesdk)
 
 ```
 #!/bin/bash
@@ -79,8 +85,9 @@ Penjelasan:
 ```
 nano search_file.sh
 ```
+Deakripsi gambar
+(https://drive.google.com/file/d/1n5t0VWrIg_a3R7hrayUk7-USORuMqhqV/view?usp=drivesdk)
 
-(Deakripsi gambar)
 ```
  #!/bin/bash
 # Script: search_files.sh
@@ -135,8 +142,8 @@ Buat file report.sh
 ```
 nano report.sh
 ```
-[Deskripsi gambar]
-
+Deskripsi gambar
+(https://drive.google.com/file/d/1TuVoeQBkh60cibHXGzCttor8HRLFhG6M/view?usp=drivesdk)
 ```
 #!/bin/bash
 # Script: generate_report.sh
