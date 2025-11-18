@@ -37,7 +37,7 @@ echo "Log sistem contoh" > file20.log
 ```
 Penjelasan:
 
--`mkdir` → membuat folder baru.
+-`mkdir` -> membuat folder baru.
 -`touch` → membuat file kosong dengan cepat.
 -`echo` → menulis teks ke dalam file.
 # LANGKAH 2 SCRIPT ORGANISASI FILE
